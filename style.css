@@ -89,9 +89,10 @@ body{
     box-sizing: border-box;
 }
 .col-l ul{
+    padding:0;
     list-style: none;
     float: left;
-    padding: 0;
+    padding-left: 20px;
     max-width: 210px;
     margin: 0 40px 0 0;
 }
