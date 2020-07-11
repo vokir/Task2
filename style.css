@@ -42,7 +42,7 @@ body{
     margin-right: auto;
     margin-left: 14px;
     margin-bottom: 16px;
-    background: url(../img/eye.svg) no-repeat center;
+    background: url(img/eye.svg) no-repeat center;
     background-size: contain;
 }
 .menu li{
